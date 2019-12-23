@@ -1,0 +1,13 @@
+1568161632s:303:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "2a00:5da0:1000:0001:0000:0000:0000:00ec",
+	"countryCode" : "KZ",
+	"countryName" : "Kazakhstan",
+	"regionName" : "Almaty",
+	"cityName" : "Almaty",
+	"zipCode" : "050000",
+	"latitude" : "43.25",
+	"longitude" : "76.95",
+	"timeZone" : "+06:00"
+}";

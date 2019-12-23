@@ -1,0 +1,13 @@
+1575579128s:291:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "23.250.24.48",
+	"countryCode" : "US",
+	"countryName" : "United States",
+	"regionName" : "New York",
+	"cityName" : "New York City",
+	"zipCode" : "10116",
+	"latitude" : "40.7143",
+	"longitude" : "-74.006",
+	"timeZone" : "-05:00"
+}";

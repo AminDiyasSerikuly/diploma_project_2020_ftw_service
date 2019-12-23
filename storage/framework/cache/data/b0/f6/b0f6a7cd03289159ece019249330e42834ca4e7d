@@ -1,0 +1,13 @@
+1563619335s:321:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "2600:1900:2000:0009:0000:0000:0000:002b",
+	"countryCode" : "US",
+	"countryName" : "United States",
+	"regionName" : "California",
+	"cityName" : "Mountain View",
+	"zipCode" : "94041",
+	"latitude" : "37.3861",
+	"longitude" : "-122.084",
+	"timeZone" : "-07:00"
+}";

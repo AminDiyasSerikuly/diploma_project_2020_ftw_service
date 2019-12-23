@@ -1,0 +1,13 @@
+1574619326s:320:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "2601:0646:8000:5fc0:dd09:b61b:27d1:defc",
+	"countryCode" : "US",
+	"countryName" : "United States",
+	"regionName" : "New Jersey",
+	"cityName" : "Mount Laurel",
+	"zipCode" : "08054",
+	"latitude" : "39.9489",
+	"longitude" : "-74.9003",
+	"timeZone" : "-04:00"
+}";

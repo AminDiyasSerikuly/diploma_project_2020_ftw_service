@@ -1,0 +1,13 @@
+1565150629s:307:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "2620:0049:0008:1001:0000:0000:0000:0019",
+	"countryCode" : "CA",
+	"countryName" : "Canada",
+	"regionName" : "Ontario",
+	"cityName" : "Toronto",
+	"zipCode" : "M5P 2N7",
+	"latitude" : "43.7001",
+	"longitude" : "-79.4163",
+	"timeZone" : "-04:00"
+}";

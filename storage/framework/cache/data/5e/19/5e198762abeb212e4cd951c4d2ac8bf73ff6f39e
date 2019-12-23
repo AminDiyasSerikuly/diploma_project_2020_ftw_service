@@ -1,0 +1,13 @@
+1564488958s:314:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "2a03:b0c0:0003:00d0:0000:0000:5f5e:c001",
+	"countryCode" : "DE",
+	"countryName" : "Germany",
+	"regionName" : "Hessen",
+	"cityName" : "Frankfurt am Main",
+	"zipCode" : "65931",
+	"latitude" : "50.1155",
+	"longitude" : "8.68417",
+	"timeZone" : "+02:00"
+}";

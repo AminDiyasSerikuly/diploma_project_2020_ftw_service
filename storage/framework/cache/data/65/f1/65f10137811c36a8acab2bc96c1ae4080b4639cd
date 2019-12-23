@@ -1,0 +1,13 @@
+1563551871s:285:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "77.123.91.81",
+	"countryCode" : "UA",
+	"countryName" : "Ukraine",
+	"regionName" : "Rivnenska oblast",
+	"cityName" : "Rivne",
+	"zipCode" : "33030",
+	"latitude" : "50.6231",
+	"longitude" : "26.2274",
+	"timeZone" : "+03:00"
+}";

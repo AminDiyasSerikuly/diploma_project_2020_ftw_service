@@ -1,0 +1,13 @@
+1561986150s:337:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "2a00:1fa0:0265:6274:0000:0047:3b1b:b801",
+	"countryCode" : "RU",
+	"countryName" : "Russian Federation",
+	"regionName" : "Sverdlovskaya oblast'",
+	"cityName" : "Yekaterinburg",
+	"zipCode" : "620098",
+	"latitude" : "56.8575",
+	"longitude" : "60.6125",
+	"timeZone" : "+05:00"
+}";

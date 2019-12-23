@@ -1,0 +1,13 @@
+1562861197s:316:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "2607:fb90:509a:812d:6011:6a0c:f50f:0f34",
+	"countryCode" : "US",
+	"countryName" : "United States",
+	"regionName" : "Washington",
+	"cityName" : "Bellevue",
+	"zipCode" : "98004",
+	"latitude" : "47.6104",
+	"longitude" : "-122.201",
+	"timeZone" : "-07:00"
+}";

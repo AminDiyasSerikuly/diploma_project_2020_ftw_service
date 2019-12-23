@@ -1,0 +1,13 @@
+1574153524s:279:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "85.195.230.179",
+	"countryCode" : "CH",
+	"countryName" : "Switzerland",
+	"regionName" : "Zurich",
+	"cityName" : "Winterthur",
+	"zipCode" : "8411",
+	"latitude" : "47.5",
+	"longitude" : "8.75",
+	"timeZone" : "+01:00"
+}";

@@ -1,0 +1,13 @@
+1565341800s:285:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "8.37.235.60",
+	"countryCode" : "US",
+	"countryName" : "United States",
+	"regionName" : "Louisiana",
+	"cityName" : "Monroe",
+	"zipCode" : "71203",
+	"latitude" : "32.5483",
+	"longitude" : "-92.0452",
+	"timeZone" : "-05:00"
+}";

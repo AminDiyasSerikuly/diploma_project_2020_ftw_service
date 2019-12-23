@@ -1,0 +1,13 @@
+1572960803s:278:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "167.86.116.225",
+	"countryCode" : "DE",
+	"countryName" : "Germany",
+	"regionName" : "Bayern",
+	"cityName" : "Munich",
+	"zipCode" : "80331",
+	"latitude" : "48.1374",
+	"longitude" : "11.5755",
+	"timeZone" : "+01:00"
+}";

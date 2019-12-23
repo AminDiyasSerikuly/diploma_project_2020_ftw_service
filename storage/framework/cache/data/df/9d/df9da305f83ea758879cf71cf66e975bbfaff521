@@ -1,0 +1,13 @@
+1563351983s:312:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "2606:2e00:8003:0010:0000:0000:0001:1b64",
+	"countryCode" : "US",
+	"countryName" : "United States",
+	"regionName" : "Utah",
+	"cityName" : "Providence",
+	"zipCode" : "84332",
+	"latitude" : "41.7063",
+	"longitude" : "-111.817",
+	"timeZone" : "-06:00"
+}";

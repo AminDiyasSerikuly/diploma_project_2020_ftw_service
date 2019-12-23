@@ -1,0 +1,13 @@
+1563216964s:313:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "2605:f700:0040:0400:0000:0000:f03d:50b6",
+	"countryCode" : "US",
+	"countryName" : "United States",
+	"regionName" : "Nevada",
+	"cityName" : "Henderson",
+	"zipCode" : "89077",
+	"latitude" : "36.0397",
+	"longitude" : "-114.982",
+	"timeZone" : "-07:00"
+}";

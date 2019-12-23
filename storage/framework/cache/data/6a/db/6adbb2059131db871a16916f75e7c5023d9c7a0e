@@ -1,0 +1,13 @@
+1570290689s:309:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "95.24.28.116",
+	"countryCode" : "RU",
+	"countryName" : "Russian Federation",
+	"regionName" : "Rostovskaya oblast'",
+	"cityName" : "Rostov-na-Donu",
+	"zipCode" : "344961",
+	"latitude" : "47.2356",
+	"longitude" : "39.7122",
+	"timeZone" : "+03:00"
+}";

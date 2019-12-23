@@ -1,0 +1,13 @@
+1571265577s:293:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "138.68.48.101",
+	"countryCode" : "US",
+	"countryName" : "United States",
+	"regionName" : "California",
+	"cityName" : "Santa Clara",
+	"zipCode" : "95050",
+	"latitude" : "37.3541",
+	"longitude" : "-121.955",
+	"timeZone" : "-07:00"
+}";

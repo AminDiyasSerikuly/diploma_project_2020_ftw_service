@@ -1,0 +1,13 @@
+1562550740s:284:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "18.222.248.46",
+	"countryCode" : "US",
+	"countryName" : "United States",
+	"regionName" : "Ohio",
+	"cityName" : "Columbus",
+	"zipCode" : "43085",
+	"latitude" : "39.9612",
+	"longitude" : "-82.9988",
+	"timeZone" : "-04:00"
+}";

@@ -1,0 +1,13 @@
+1573008032s:310:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "77.222.99.214",
+	"countryCode" : "RU",
+	"countryName" : "Russian Federation",
+	"regionName" : "Chelyabinskaya oblast'",
+	"cityName" : "Chelyabinsk",
+	"zipCode" : "454138",
+	"latitude" : "55.1544",
+	"longitude" : "61.4297",
+	"timeZone" : "+05:00"
+}";

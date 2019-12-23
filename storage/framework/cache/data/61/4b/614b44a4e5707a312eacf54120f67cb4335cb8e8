@@ -1,0 +1,13 @@
+1573190610s:288:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "104.194.25.212",
+	"countryCode" : "US",
+	"countryName" : "United States",
+	"regionName" : "Nevada",
+	"cityName" : "Las Vegas",
+	"zipCode" : "89119",
+	"latitude" : "36.0895",
+	"longitude" : "-115.138",
+	"timeZone" : "-07:00"
+}";

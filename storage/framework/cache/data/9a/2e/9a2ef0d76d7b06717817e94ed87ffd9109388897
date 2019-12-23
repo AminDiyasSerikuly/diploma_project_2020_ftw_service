@@ -1,0 +1,13 @@
+1565581930s:292:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "38.145.99.15",
+	"countryCode" : "US",
+	"countryName" : "United States",
+	"regionName" : "Oklahoma",
+	"cityName" : "Oklahoma City",
+	"zipCode" : "73101",
+	"latitude" : "35.4676",
+	"longitude" : "-97.5164",
+	"timeZone" : "-05:00"
+}";

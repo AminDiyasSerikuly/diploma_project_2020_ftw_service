@@ -1,0 +1,13 @@
+1562042267s:284:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "195.201.201.32",
+	"countryCode" : "DE",
+	"countryName" : "Germany",
+	"regionName" : "Bayern",
+	"cityName" : "Gunzenhausen",
+	"zipCode" : "85777",
+	"latitude" : "48.3233",
+	"longitude" : "11.6012",
+	"timeZone" : "+02:00"
+}";

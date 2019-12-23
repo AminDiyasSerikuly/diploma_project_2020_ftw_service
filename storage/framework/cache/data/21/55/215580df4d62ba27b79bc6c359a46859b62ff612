@@ -1,0 +1,13 @@
+1570532980s:284:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "51.68.95.22",
+	"countryCode" : "FR",
+	"countryName" : "France",
+	"regionName" : "Hauts-de-France",
+	"cityName" : "Roubaix",
+	"zipCode" : "59689",
+	"latitude" : "50.6942",
+	"longitude" : "3.17456",
+	"timeZone" : "+02:00"
+}";

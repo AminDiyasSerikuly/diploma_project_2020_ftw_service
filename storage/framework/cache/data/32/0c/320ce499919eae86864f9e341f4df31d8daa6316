@@ -1,0 +1,13 @@
+1564044280s:293:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "204.14.72.166",
+	"countryCode" : "US",
+	"countryName" : "United States",
+	"regionName" : "New York",
+	"cityName" : "New York City",
+	"zipCode" : "10003",
+	"latitude" : "40.7313",
+	"longitude" : "-73.9901",
+	"timeZone" : "-04:00"
+}";

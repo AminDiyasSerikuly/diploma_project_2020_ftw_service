@@ -1,0 +1,13 @@
+1576268215s:289:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "185.220.70.150",
+	"countryCode" : "DE",
+	"countryName" : "Germany",
+	"regionName" : "Hessen",
+	"cityName" : "Frankfurt am Main",
+	"zipCode" : "60326",
+	"latitude" : "50.1155",
+	"longitude" : "8.68417",
+	"timeZone" : "+01:00"
+}";

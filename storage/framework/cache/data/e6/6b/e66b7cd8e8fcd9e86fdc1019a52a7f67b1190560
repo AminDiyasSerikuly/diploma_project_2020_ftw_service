@@ -1,0 +1,13 @@
+1565709978s:291:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "23.228.90.99",
+	"countryCode" : "US",
+	"countryName" : "United States",
+	"regionName" : "California",
+	"cityName" : "Los Angeles",
+	"zipCode" : "90012",
+	"latitude" : "34.0607",
+	"longitude" : "-118.24",
+	"timeZone" : "-07:00"
+}";

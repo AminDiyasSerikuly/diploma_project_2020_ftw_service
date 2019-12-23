@@ -1,0 +1,13 @@
+1565107359s:284:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "178.22.66.124",
+	"countryCode" : "CH",
+	"countryName" : "Switzerland",
+	"regionName" : "Zurich",
+	"cityName" : "Glattbrugg",
+	"zipCode" : "8152",
+	"latitude" : "47.4313",
+	"longitude" : "8.56272",
+	"timeZone" : "+02:00"
+}";

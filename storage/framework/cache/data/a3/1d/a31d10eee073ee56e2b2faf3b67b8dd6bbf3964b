@@ -1,0 +1,13 @@
+1573686190s:312:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "2600:1f14:0b62:9e02:c401:cda2:a095:8823",
+	"countryCode" : "US",
+	"countryName" : "United States",
+	"regionName" : "Oregon",
+	"cityName" : "Portland",
+	"zipCode" : "97204",
+	"latitude" : "45.5234",
+	"longitude" : "-122.676",
+	"timeZone" : "-07:00"
+}";

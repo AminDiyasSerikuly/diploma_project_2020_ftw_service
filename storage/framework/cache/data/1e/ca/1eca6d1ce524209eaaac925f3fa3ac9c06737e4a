@@ -1,0 +1,13 @@
+1564551001s:306:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "5.189.243.221",
+	"countryCode" : "RU",
+	"countryName" : "Russian Federation",
+	"regionName" : "Krasnoyarskiy kray",
+	"cityName" : "Krasnoyarsk",
+	"zipCode" : "660000",
+	"latitude" : "56.0097",
+	"longitude" : "92.7917",
+	"timeZone" : "+07:00"
+}";

@@ -1,0 +1,13 @@
+1562739445s:311:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "176.59.65.44",
+	"countryCode" : "RU",
+	"countryName" : "Russian Federation",
+	"regionName" : "Krasnodarskiy kray",
+	"cityName" : "Novomikhaylovskiy",
+	"zipCode" : "357804",
+	"latitude" : "44.2626",
+	"longitude" : "38.8585",
+	"timeZone" : "+03:00"
+}";

@@ -1,0 +1,13 @@
+1563833314s:319:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "2405:7e00:1002:0000:0000:0000:0000:0208",
+	"countryCode" : "TW",
+	"countryName" : "Taiwan, Province of China",
+	"regionName" : "Taipei",
+	"cityName" : "Taipei",
+	"zipCode" : "100",
+	"latitude" : "25.0478",
+	"longitude" : "121.532",
+	"timeZone" : "+08:00"
+}";

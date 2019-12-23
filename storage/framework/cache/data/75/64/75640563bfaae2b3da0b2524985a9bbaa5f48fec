@@ -1,0 +1,13 @@
+1573031699s:291:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "104.36.18.245",
+	"countryCode" : "US",
+	"countryName" : "United States",
+	"regionName" : "California",
+	"cityName" : "Palo Alto",
+	"zipCode" : "94303",
+	"latitude" : "37.4494",
+	"longitude" : "-122.125",
+	"timeZone" : "-07:00"
+}";

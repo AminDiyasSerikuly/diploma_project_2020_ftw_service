@@ -1,0 +1,13 @@
+1573735347s:318:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "2604:a880:0800:00a1:0000:0000:0122:3001",
+	"countryCode" : "US",
+	"countryName" : "United States",
+	"regionName" : "New York",
+	"cityName" : "New York City",
+	"zipCode" : "10081",
+	"latitude" : "40.7143",
+	"longitude" : "-74.006",
+	"timeZone" : "-04:00"
+}";

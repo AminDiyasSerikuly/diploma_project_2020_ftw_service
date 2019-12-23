@@ -1,0 +1,13 @@
+1564894759s:293:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "167.71.108.155",
+	"countryCode" : "US",
+	"countryName" : "United States",
+	"regionName" : "New York",
+	"cityName" : "New York City",
+	"zipCode" : "10013",
+	"latitude" : "40.7199",
+	"longitude" : "-74.005",
+	"timeZone" : "-04:00"
+}";

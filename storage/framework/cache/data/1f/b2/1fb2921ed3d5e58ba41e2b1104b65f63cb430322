@@ -1,0 +1,13 @@
+1574856845s:300:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "2a03:2880:31ff:0004:0000:0000:face:b00c",
+	"countryCode" : "IE",
+	"countryName" : "Ireland",
+	"regionName" : "Dublin",
+	"cityName" : "Dublin",
+	"zipCode" : "D8",
+	"latitude" : "53.344",
+	"longitude" : "-6.26719",
+	"timeZone" : "+00:00"
+}";

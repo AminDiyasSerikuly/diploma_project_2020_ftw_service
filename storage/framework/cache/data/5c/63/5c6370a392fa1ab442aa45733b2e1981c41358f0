@@ -1,0 +1,13 @@
+1574136004s:295:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "172.104.178.58",
+	"countryCode" : "US",
+	"countryName" : "United States",
+	"regionName" : "Pennsylvania",
+	"cityName" : "Philadelphia",
+	"zipCode" : "19106",
+	"latitude" : "39.95",
+	"longitude" : "-75.1472",
+	"timeZone" : "-04:00"
+}";

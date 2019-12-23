@@ -1,0 +1,13 @@
+1563789963s:315:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "2001:4ca0:2003:0240:0000:0000:0000:0047",
+	"countryCode" : "DE",
+	"countryName" : "Germany",
+	"regionName" : "Bayern",
+	"cityName" : "Garching bei Munchen",
+	"zipCode" : "85748",
+	"latitude" : "48.249",
+	"longitude" : "11.651",
+	"timeZone" : "+02:00"
+}";

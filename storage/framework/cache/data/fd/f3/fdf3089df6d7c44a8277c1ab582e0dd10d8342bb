@@ -1,0 +1,13 @@
+1571780768s:282:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "38.99.62.94",
+	"countryCode" : "US",
+	"countryName" : "United States",
+	"regionName" : "Georgia",
+	"cityName" : "Atlanta",
+	"zipCode" : "30301",
+	"latitude" : "33.749",
+	"longitude" : "-84.388",
+	"timeZone" : "-04:00"
+}";

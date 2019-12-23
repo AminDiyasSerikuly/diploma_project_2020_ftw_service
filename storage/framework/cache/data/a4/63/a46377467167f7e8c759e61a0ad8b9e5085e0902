@@ -1,0 +1,13 @@
+1563742973s:275:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "213.74.44.13",
+	"countryCode" : "TR",
+	"countryName" : "Turkey",
+	"regionName" : "Antalya",
+	"cityName" : "Belek",
+	"zipCode" : "18000",
+	"latitude" : "36.8628",
+	"longitude" : "31.0556",
+	"timeZone" : "+03:00"
+}";

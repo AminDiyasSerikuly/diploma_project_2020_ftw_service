@@ -1,0 +1,13 @@
+1574659400s:289:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "142.93.72.195",
+	"countryCode" : "US",
+	"countryName" : "United States",
+	"regionName" : "New Jersey",
+	"cityName" : "Clifton",
+	"zipCode" : "07011",
+	"latitude" : "40.8584",
+	"longitude" : "-74.1638",
+	"timeZone" : "-04:00"
+}";

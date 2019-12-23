@@ -1,0 +1,13 @@
+1572523999s:293:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "196.247.31.64",
+	"countryCode" : "US",
+	"countryName" : "United States",
+	"regionName" : "California",
+	"cityName" : "Los Angeles",
+	"zipCode" : "90001",
+	"latitude" : "34.0522",
+	"longitude" : "-118.244",
+	"timeZone" : "-07:00"
+}";

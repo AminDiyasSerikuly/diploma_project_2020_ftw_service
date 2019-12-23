@@ -1,0 +1,13 @@
+1562916029s:306:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "188.235.10.231",
+	"countryCode" : "RU",
+	"countryName" : "Russian Federation",
+	"regionName" : "Voronezhskaya oblast'",
+	"cityName" : "Voronezh",
+	"zipCode" : "394009",
+	"latitude" : "51.672",
+	"longitude" : "39.1843",
+	"timeZone" : "+03:00"
+}";

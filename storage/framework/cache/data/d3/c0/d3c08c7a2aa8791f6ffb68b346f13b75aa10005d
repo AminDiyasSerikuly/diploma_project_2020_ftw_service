@@ -1,0 +1,13 @@
+1575457615s:301:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "23.94.83.114",
+	"countryCode" : "US",
+	"countryName" : "United States",
+	"regionName" : "District of Columbia",
+	"cityName" : "Washington",
+	"zipCode" : "20001",
+	"latitude" : "38.8951",
+	"longitude" : "-77.0364",
+	"timeZone" : "-05:00"
+}";

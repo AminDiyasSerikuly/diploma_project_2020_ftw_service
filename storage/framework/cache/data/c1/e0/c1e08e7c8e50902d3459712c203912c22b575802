@@ -1,0 +1,13 @@
+1567054862s:275:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "66.78.21.11",
+	"countryCode" : "CH",
+	"countryName" : "Switzerland",
+	"regionName" : "Zurich",
+	"cityName" : "Zurich",
+	"zipCode" : "8099",
+	"latitude" : "47.3667",
+	"longitude" : "8.55",
+	"timeZone" : "+02:00"
+}";

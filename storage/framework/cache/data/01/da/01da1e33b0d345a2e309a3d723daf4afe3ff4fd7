@@ -1,0 +1,13 @@
+1571684268s:278:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "178.209.40.101",
+	"countryCode" : "CH",
+	"countryName" : "Switzerland",
+	"regionName" : "Zurich",
+	"cityName" : "Zurich",
+	"zipCode" : "8047",
+	"latitude" : "47.3667",
+	"longitude" : "8.55",
+	"timeZone" : "+02:00"
+}";

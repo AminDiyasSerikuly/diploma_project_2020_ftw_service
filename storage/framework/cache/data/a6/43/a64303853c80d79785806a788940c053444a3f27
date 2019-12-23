@@ -1,0 +1,13 @@
+1565336880s:278:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "138.201.244.97",
+	"countryCode" : "DE",
+	"countryName" : "Germany",
+	"regionName" : "Berlin",
+	"cityName" : "Berlin",
+	"zipCode" : "12355",
+	"latitude" : "52.5244",
+	"longitude" : "13.4105",
+	"timeZone" : "+02:00"
+}";

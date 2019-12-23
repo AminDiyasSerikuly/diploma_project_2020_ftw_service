@@ -1,0 +1,13 @@
+1568290237s:287:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "174.101.150.191",
+	"countryCode" : "US",
+	"countryName" : "United States",
+	"regionName" : "Ohio",
+	"cityName" : "Cincinnati",
+	"zipCode" : "45201",
+	"latitude" : "39.162",
+	"longitude" : "-84.4569",
+	"timeZone" : "-04:00"
+}";

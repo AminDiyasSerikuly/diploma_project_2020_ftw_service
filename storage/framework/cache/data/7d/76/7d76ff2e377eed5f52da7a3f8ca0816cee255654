@@ -1,0 +1,13 @@
+1572187397s:309:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "192.144.13.213",
+	"countryCode" : "RU",
+	"countryName" : "Russian Federation",
+	"regionName" : "Sankt-Peterburg",
+	"cityName" : "Saint Petersburg",
+	"zipCode" : "190990",
+	"latitude" : "59.8944",
+	"longitude" : "30.2642",
+	"timeZone" : "+03:00"
+}";

@@ -1,0 +1,13 @@
+1562007847s:322:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "2605:3e80:2c00:0000:0000:0000:0000:6b9d",
+	"countryCode" : "US",
+	"countryName" : "United States",
+	"regionName" : "South Carolina",
+	"cityName" : "Charleston",
+	"zipCode" : "29402",
+	"latitude" : "32.7766",
+	"longitude" : "-79.9309",
+	"timeZone" : "-04:00"
+}";

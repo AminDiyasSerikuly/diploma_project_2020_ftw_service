@@ -1,0 +1,13 @@
+1563984305s:285:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "139.99.123.88",
+	"countryCode" : "SG",
+	"countryName" : "Singapore",
+	"regionName" : "Singapore",
+	"cityName" : "Singapore",
+	"zipCode" : "179431",
+	"latitude" : "1.28967",
+	"longitude" : "103.85",
+	"timeZone" : "+08:00"
+}";

@@ -1,0 +1,13 @@
+1574998277s:317:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "2001:41d0:0001:ec68:0000:0000:0000:0001",
+	"countryCode" : "FR",
+	"countryName" : "France",
+	"regionName" : "Hauts-de-France",
+	"cityName" : "Roubaix",
+	"zipCode" : "59689 CEDE",
+	"latitude" : "50.6942",
+	"longitude" : "3.17456",
+	"timeZone" : "+01:00"
+}";

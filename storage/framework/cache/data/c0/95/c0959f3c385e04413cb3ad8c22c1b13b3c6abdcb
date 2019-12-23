@@ -1,0 +1,13 @@
+1563788540s:289:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "104.248.128.80",
+	"countryCode" : "DE",
+	"countryName" : "Germany",
+	"regionName" : "Hessen",
+	"cityName" : "Frankfurt am Main",
+	"zipCode" : "65931",
+	"latitude" : "50.1155",
+	"longitude" : "8.68417",
+	"timeZone" : "+02:00"
+}";

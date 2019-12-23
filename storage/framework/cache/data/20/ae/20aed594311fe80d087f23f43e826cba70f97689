@@ -1,0 +1,13 @@
+1567195976s:281:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "46.222.115.99",
+	"countryCode" : "ES",
+	"countryName" : "Spain",
+	"regionName" : "Catalunya",
+	"cityName" : "Barcelona",
+	"zipCode" : "08036",
+	"latitude" : "41.3888",
+	"longitude" : "2.15899",
+	"timeZone" : "+02:00"
+}";

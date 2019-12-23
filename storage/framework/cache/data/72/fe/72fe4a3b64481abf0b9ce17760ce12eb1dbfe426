@@ -1,0 +1,13 @@
+1567206209s:318:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "2600:0387:0004:0803:0000:0000:0000:008c",
+	"countryCode" : "US",
+	"countryName" : "United States",
+	"regionName" : "Alaska",
+	"cityName" : "Delta Junction",
+	"zipCode" : "99737",
+	"latitude" : "64.0478",
+	"longitude" : "-145.719",
+	"timeZone" : "-08:00"
+}";

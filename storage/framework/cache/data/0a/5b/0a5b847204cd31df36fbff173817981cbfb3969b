@@ -1,0 +1,13 @@
+1568107958s:281:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "87.100.163.112",
+	"countryCode" : "FI",
+	"countryName" : "Finland",
+	"regionName" : "Uusimaa",
+	"cityName" : "Helsinki",
+	"zipCode" : "00100",
+	"latitude" : "60.1695",
+	"longitude" : "24.9354",
+	"timeZone" : "+03:00"
+}";

@@ -1,0 +1,13 @@
+1566401585s:315:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "2a02:06b8:0000:1409:b536:e16c:9e79:d836",
+	"countryCode" : "RU",
+	"countryName" : "Russian Federation",
+	"regionName" : "Moskva",
+	"cityName" : "Moscow",
+	"zipCode" : "101990",
+	"latitude" : "55.7522",
+	"longitude" : "37.6156",
+	"timeZone" : "+03:00"
+}";

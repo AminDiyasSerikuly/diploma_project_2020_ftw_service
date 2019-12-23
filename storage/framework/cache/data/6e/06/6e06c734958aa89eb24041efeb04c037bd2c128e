@@ -1,0 +1,13 @@
+1574235222s:285:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "23.82.166.11",
+	"countryCode" : "US",
+	"countryName" : "United States",
+	"regionName" : "Arizona",
+	"cityName" : "Phoenix",
+	"zipCode" : "85054",
+	"latitude" : "33.6789",
+	"longitude" : "-111.938",
+	"timeZone" : "-07:00"
+}";

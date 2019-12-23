@@ -1,0 +1,13 @@
+1567074599s:289:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "139.99.157.106",
+	"countryCode" : "AU",
+	"countryName" : "Australia",
+	"regionName" : "New South Wales",
+	"cityName" : "Sydney",
+	"zipCode" : "2000",
+	"latitude" : "-33.8679",
+	"longitude" : "151.207",
+	"timeZone" : "+10:00"
+}";

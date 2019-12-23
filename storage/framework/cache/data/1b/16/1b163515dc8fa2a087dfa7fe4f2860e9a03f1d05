@@ -1,0 +1,13 @@
+1563019513s:290:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "198.108.66.224",
+	"countryCode" : "US",
+	"countryName" : "United States",
+	"regionName" : "Michigan",
+	"cityName" : "Ann Arbor",
+	"zipCode" : "48103",
+	"latitude" : "42.2708",
+	"longitude" : "-83.8087",
+	"timeZone" : "-04:00"
+}";

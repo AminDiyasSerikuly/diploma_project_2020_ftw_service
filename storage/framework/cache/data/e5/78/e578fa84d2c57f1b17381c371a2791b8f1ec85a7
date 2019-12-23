@@ -1,0 +1,13 @@
+1570938281s:323:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "2a02:0598:000a:0000:0000:0000:0078:0172",
+	"countryCode" : "CZ",
+	"countryName" : "Czech Republic",
+	"regionName" : "Praha, Hlavni mesto",
+	"cityName" : "Prague",
+	"zipCode" : "150 00",
+	"latitude" : "50.088",
+	"longitude" : "14.4208",
+	"timeZone" : "+02:00"
+}";

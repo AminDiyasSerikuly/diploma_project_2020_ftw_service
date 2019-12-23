@@ -1,0 +1,13 @@
+1563357003s:306:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "2a01:04f8:010b:2e1f:0000:0000:0000:0002",
+	"countryCode" : "DE",
+	"countryName" : "Germany",
+	"regionName" : "Bayern",
+	"cityName" : "Nuremberg",
+	"zipCode" : "90455",
+	"latitude" : "49.4478",
+	"longitude" : "11.0683",
+	"timeZone" : "+02:00"
+}";

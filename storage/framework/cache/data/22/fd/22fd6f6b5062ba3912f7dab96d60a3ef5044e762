@@ -1,0 +1,13 @@
+1563969030s:289:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "47.252.7.66",
+	"countryCode" : "US",
+	"countryName" : "United States",
+	"regionName" : "California",
+	"cityName" : "San Mateo",
+	"zipCode" : "94402",
+	"latitude" : "37.5474",
+	"longitude" : "-122.331",
+	"timeZone" : "-07:00"
+}";

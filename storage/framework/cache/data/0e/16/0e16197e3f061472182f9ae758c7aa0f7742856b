@@ -1,0 +1,13 @@
+1568104669s:316:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "2001:067c:198c:0906:0003:0000:0000:0042",
+	"countryCode" : "SE",
+	"countryName" : "Sweden",
+	"regionName" : "Ostergotlands lan",
+	"cityName" : "Linkoping",
+	"zipCode" : "58957",
+	"latitude" : "58.4167",
+	"longitude" : "15.6167",
+	"timeZone" : "+02:00"
+}";

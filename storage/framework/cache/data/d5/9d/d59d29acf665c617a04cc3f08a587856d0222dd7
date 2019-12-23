@@ -1,0 +1,13 @@
+1565169423s:315:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "2001:067c:2660:0425:0022:0000:0000:0bc5",
+	"countryCode" : "NL",
+	"countryName" : "Netherlands",
+	"regionName" : "Noord-Holland",
+	"cityName" : "Amsterdam",
+	"zipCode" : "1000",
+	"latitude" : "52.374",
+	"longitude" : "4.88969",
+	"timeZone" : "+02:00"
+}";

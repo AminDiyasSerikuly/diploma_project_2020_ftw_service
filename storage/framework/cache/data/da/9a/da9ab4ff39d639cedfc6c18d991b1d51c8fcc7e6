@@ -1,0 +1,13 @@
+1564400545s:285:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "191.101.215.217",
+	"countryCode" : "US",
+	"countryName" : "United States",
+	"regionName" : "Illinois",
+	"cityName" : "Chicago",
+	"zipCode" : "60290",
+	"latitude" : "41.85",
+	"longitude" : "-87.65",
+	"timeZone" : "-05:00"
+}";

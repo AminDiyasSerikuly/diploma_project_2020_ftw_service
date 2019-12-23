@@ -1,0 +1,13 @@
+1574895170s:321:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "2a03:b0c0:0001:00e0:0000:0000:055d:d001",
+	"countryCode" : "GB",
+	"countryName" : "United Kingdom",
+	"regionName" : "England",
+	"cityName" : "Farnham Royal",
+	"zipCode" : "SL2 3BW",
+	"latitude" : "51.5421",
+	"longitude" : "-0.61584",
+	"timeZone" : "+00:00"
+}";

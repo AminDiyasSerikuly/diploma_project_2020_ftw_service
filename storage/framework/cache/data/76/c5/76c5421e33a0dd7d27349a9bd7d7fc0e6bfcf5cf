@@ -1,0 +1,13 @@
+1567443518s:306:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "31.28.193.118",
+	"countryCode" : "RU",
+	"countryName" : "Russian Federation",
+	"regionName" : "Vladimirskaya oblast'",
+	"cityName" : "Vladimir",
+	"zipCode" : "600017",
+	"latitude" : "56.1366",
+	"longitude" : "40.3966",
+	"timeZone" : "+03:00"
+}";

@@ -1,0 +1,13 @@
+1564816004s:284:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "24.243.152.254",
+	"countryCode" : "US",
+	"countryName" : "United States",
+	"regionName" : "Texas",
+	"cityName" : "Austin",
+	"zipCode" : "73301",
+	"latitude" : "30.2672",
+	"longitude" : "-97.7431",
+	"timeZone" : "-05:00"
+}";

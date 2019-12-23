@@ -1,0 +1,13 @@
+1569396878s:274:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "109.70.100.25",
+	"countryCode" : "AT",
+	"countryName" : "Austria",
+	"regionName" : "Wien",
+	"cityName" : "Vienna",
+	"zipCode" : "1150",
+	"latitude" : "48.2085",
+	"longitude" : "16.3721",
+	"timeZone" : "+02:00"
+}";

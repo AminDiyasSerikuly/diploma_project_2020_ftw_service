@@ -1,0 +1,13 @@
+1563176282s:320:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "2603:400a:ffff:0804:801e:0034:0000:0048",
+	"countryCode" : "US",
+	"countryName" : "United States",
+	"regionName" : "Massachusetts",
+	"cityName" : "Cambridge",
+	"zipCode" : "02143",
+	"latitude" : "42.3751",
+	"longitude" : "-71.1056",
+	"timeZone" : "-04:00"
+}";

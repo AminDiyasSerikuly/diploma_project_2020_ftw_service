@@ -1,0 +1,13 @@
+1562180850s:288:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "154.16.46.156",
+	"countryCode" : "DE",
+	"countryName" : "Germany",
+	"regionName" : "Hessen",
+	"cityName" : "Frankfurt am Main",
+	"zipCode" : "65931",
+	"latitude" : "50.1155",
+	"longitude" : "8.68417",
+	"timeZone" : "+02:00"
+}";

@@ -1,0 +1,13 @@
+1562003884s:316:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "2620:0101:2002:11a4:0000:0000:0000:1017",
+	"countryCode" : "US",
+	"countryName" : "United States",
+	"regionName" : "California",
+	"cityName" : "San Jose",
+	"zipCode" : "95106",
+	"latitude" : "37.3394",
+	"longitude" : "-121.895",
+	"timeZone" : "-07:00"
+}";

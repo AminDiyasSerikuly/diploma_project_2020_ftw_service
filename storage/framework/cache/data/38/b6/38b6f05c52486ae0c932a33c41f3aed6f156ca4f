@@ -1,0 +1,13 @@
+1562837963s:253:"{
+	"statusCode" : "ERROR",
+	"statusMessage" : "Invalid API key.",
+	"ipAddress" : "217.11.184.226",
+	"countryCode" : "",
+	"countryName" : "",
+	"regionName" : "",
+	"cityName" : "",
+	"zipCode" : "",
+	"latitude" : "0",
+	"longitude" : "0",
+	"timeZone" : ""
+}";

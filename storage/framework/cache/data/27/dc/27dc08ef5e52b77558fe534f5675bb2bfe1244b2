@@ -1,0 +1,13 @@
+1572780189s:282:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "74.50.56.239",
+	"countryCode" : "US",
+	"countryName" : "United States",
+	"regionName" : "Texas",
+	"cityName" : "Dallas",
+	"zipCode" : "75247",
+	"latitude" : "32.8149",
+	"longitude" : "-96.8792",
+	"timeZone" : "-05:00"
+}";

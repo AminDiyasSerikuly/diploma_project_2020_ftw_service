@@ -1,0 +1,13 @@
+1563928234s:310:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "2001:19f0:5c01:0d4a:5400:02ff:fe31:99ce",
+	"countryCode" : "US",
+	"countryName" : "United States",
+	"regionName" : "Kansas",
+	"cityName" : "Dearing",
+	"zipCode" : "67340",
+	"latitude" : "37.0586",
+	"longitude" : "-95.713",
+	"timeZone" : "-05:00"
+}";

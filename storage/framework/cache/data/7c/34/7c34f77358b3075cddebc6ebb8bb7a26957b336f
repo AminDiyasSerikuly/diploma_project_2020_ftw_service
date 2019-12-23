@@ -1,0 +1,13 @@
+1574302019s:307:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "2401:fa00:0063:000b:ed25:26d3:ae76:b6f8",
+	"countryCode" : "IN",
+	"countryName" : "India",
+	"regionName" : "Maharashtra",
+	"cityName" : "Mumbai",
+	"zipCode" : "400099",
+	"latitude" : "19.0144",
+	"longitude" : "72.8479",
+	"timeZone" : "+05:30"
+}";

@@ -1,0 +1,13 @@
+1573109291s:288:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "212.80.203.203",
+	"countryCode" : "SE",
+	"countryName" : "Sweden",
+	"regionName" : "Stockholms lan",
+	"cityName" : "Stockholm",
+	"zipCode" : "19587",
+	"latitude" : "59.3326",
+	"longitude" : "18.0649",
+	"timeZone" : "+01:00"
+}";

@@ -1,0 +1,13 @@
+1564661147s:289:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "198.108.67.16",
+	"countryCode" : "US",
+	"countryName" : "United States",
+	"regionName" : "Michigan",
+	"cityName" : "Ann Arbor",
+	"zipCode" : "48103",
+	"latitude" : "42.2708",
+	"longitude" : "-83.8087",
+	"timeZone" : "-04:00"
+}";

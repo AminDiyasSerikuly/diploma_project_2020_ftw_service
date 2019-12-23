@@ -1,0 +1,13 @@
+1574063439s:310:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "2a00:79e1:0abc:1800:5835:e6aa:7dde:d9ae",
+	"countryCode" : "NL",
+	"countryName" : "Netherlands",
+	"regionName" : "Noord-Holland",
+	"cityName" : "Amsterdam",
+	"zipCode" : "1000",
+	"latitude" : "52.374",
+	"longitude" : "4.88969",
+	"timeZone" : "-"
+}";

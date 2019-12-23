@@ -1,0 +1,13 @@
+1576976068s:287:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "141.8.142.3",
+	"countryCode" : "RU",
+	"countryName" : "Russian Federation",
+	"regionName" : "Moskva",
+	"cityName" : "Moscow",
+	"zipCode" : "101990",
+	"latitude" : "55.7522",
+	"longitude" : "37.6156",
+	"timeZone" : "+03:00"
+}";

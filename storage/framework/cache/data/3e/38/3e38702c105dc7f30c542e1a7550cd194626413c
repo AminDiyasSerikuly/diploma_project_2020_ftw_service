@@ -1,0 +1,13 @@
+1575656166s:288:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "216.145.14.142",
+	"countryCode" : "US",
+	"countryName" : "United States",
+	"regionName" : "Wyoming",
+	"cityName" : "Cheyenne",
+	"zipCode" : "82007",
+	"latitude" : "41.1118",
+	"longitude" : "-104.861",
+	"timeZone" : "-07:00"
+}";

@@ -1,0 +1,13 @@
+1574505203s:285:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "54.186.15.29",
+	"countryCode" : "US",
+	"countryName" : "United States",
+	"regionName" : "Oregon",
+	"cityName" : "Portland",
+	"zipCode" : "97086",
+	"latitude" : "45.5234",
+	"longitude" : "-122.676",
+	"timeZone" : "-07:00"
+}";

@@ -1,0 +1,13 @@
+1568039069s:287:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "23.108.252.212",
+	"countryCode" : "US",
+	"countryName" : "United States",
+	"regionName" : "Arizona",
+	"cityName" : "Phoenix",
+	"zipCode" : "85054",
+	"latitude" : "33.6789",
+	"longitude" : "-111.938",
+	"timeZone" : "-07:00"
+}";

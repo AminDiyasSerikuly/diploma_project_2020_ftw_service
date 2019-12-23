@@ -1,0 +1,13 @@
+1570619993s:279:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "212.42.122.66",
+	"countryCode" : "KG",
+	"countryName" : "Kyrgyzstan",
+	"regionName" : "Bishkek",
+	"cityName" : "Bishkek",
+	"zipCode" : "720040",
+	"latitude" : "42.87",
+	"longitude" : "74.59",
+	"timeZone" : "+06:00"
+}";

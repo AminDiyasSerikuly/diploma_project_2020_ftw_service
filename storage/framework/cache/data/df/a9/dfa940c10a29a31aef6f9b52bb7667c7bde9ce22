@@ -1,0 +1,13 @@
+1574695322s:285:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "23.94.76.14",
+	"countryCode" : "US",
+	"countryName" : "United States",
+	"regionName" : "New York",
+	"cityName" : "Buffalo",
+	"zipCode" : "14202",
+	"latitude" : "42.8825",
+	"longitude" : "-78.8788",
+	"timeZone" : "-04:00"
+}";

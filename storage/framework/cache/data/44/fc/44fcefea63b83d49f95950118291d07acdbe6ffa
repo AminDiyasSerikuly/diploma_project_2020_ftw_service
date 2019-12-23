@@ -1,0 +1,13 @@
+1575217651s:283:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "163.172.160.131",
+	"countryCode" : "FR",
+	"countryName" : "France",
+	"regionName" : "Ile-de-France",
+	"cityName" : "Paris",
+	"zipCode" : "75000",
+	"latitude" : "48.8534",
+	"longitude" : "2.3488",
+	"timeZone" : "+01:00"
+}";

@@ -1,0 +1,13 @@
+1572017354s:292:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "104.254.25.100",
+	"countryCode" : "US",
+	"countryName" : "United States",
+	"regionName" : "Missouri",
+	"cityName" : "Kansas City",
+	"zipCode" : "64116",
+	"latitude" : "39.1478",
+	"longitude" : "-94.5689",
+	"timeZone" : "-05:00"
+}";

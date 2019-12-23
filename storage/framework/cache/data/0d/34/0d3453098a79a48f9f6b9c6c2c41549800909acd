@@ -1,0 +1,13 @@
+1565002148s:288:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "45.40.126.174",
+	"countryCode" : "US",
+	"countryName" : "United States",
+	"regionName" : "California",
+	"cityName" : "Fremont",
+	"zipCode" : "94539",
+	"latitude" : "37.518",
+	"longitude" : "-121.929",
+	"timeZone" : "-07:00"
+}";

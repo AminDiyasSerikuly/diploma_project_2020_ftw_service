@@ -1,0 +1,13 @@
+1576708319s:304:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "172.245.183.100",
+	"countryCode" : "US",
+	"countryName" : "United States",
+	"regionName" : "District of Columbia",
+	"cityName" : "Washington",
+	"zipCode" : "20001",
+	"latitude" : "38.8951",
+	"longitude" : "-77.0364",
+	"timeZone" : "-05:00"
+}";

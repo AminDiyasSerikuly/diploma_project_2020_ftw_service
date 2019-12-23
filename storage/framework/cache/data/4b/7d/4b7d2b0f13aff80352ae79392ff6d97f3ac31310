@@ -1,0 +1,13 @@
+1562904163s:303:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "185.12.92.137",
+	"countryCode" : "RU",
+	"countryName" : "Russian Federation",
+	"regionName" : "Tyumenskaya oblast'",
+	"cityName" : "Tyumen'",
+	"zipCode" : "625039",
+	"latitude" : "57.1522",
+	"longitude" : "65.5272",
+	"timeZone" : "+05:00"
+}";

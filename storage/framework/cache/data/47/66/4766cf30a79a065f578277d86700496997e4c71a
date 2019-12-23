@@ -1,0 +1,13 @@
+1574466142s:289:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "192.169.227.95",
+	"countryCode" : "US",
+	"countryName" : "United States",
+	"regionName" : "Arizona",
+	"cityName" : "Scottsdale",
+	"zipCode" : "85260",
+	"latitude" : "33.602",
+	"longitude" : "-111.888",
+	"timeZone" : "-07:00"
+}";

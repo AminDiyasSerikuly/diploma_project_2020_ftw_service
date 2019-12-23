@@ -1,0 +1,13 @@
+1563529183s:303:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "46.29.12.152",
+	"countryCode" : "RU",
+	"countryName" : "Russian Federation",
+	"regionName" : "Krasnodarskiy kray",
+	"cityName" : "Krasnodar",
+	"zipCode" : "350000",
+	"latitude" : "45.0488",
+	"longitude" : "38.9725",
+	"timeZone" : "+03:00"
+}";

@@ -1,0 +1,13 @@
+1564486900s:290:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "70.42.242.100",
+	"countryCode" : "US",
+	"countryName" : "United States",
+	"regionName" : "California",
+	"cityName" : "San Jose",
+	"zipCode" : "95119",
+	"latitude" : "37.2297",
+	"longitude" : "-121.787",
+	"timeZone" : "-07:00"
+}";

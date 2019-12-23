@@ -1,0 +1,13 @@
+1564035070s:284:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "103.111.62.16",
+	"countryCode" : "KZ",
+	"countryName" : "Kazakhstan",
+	"regionName" : "Astana",
+	"cityName" : "Nur-Sultan",
+	"zipCode" : "020000",
+	"latitude" : "51.1801",
+	"longitude" : "71.446",
+	"timeZone" : "+06:00"
+}";

@@ -1,0 +1,13 @@
+1567999235s:293:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "66.249.83.43",
+	"countryCode" : "US",
+	"countryName" : "United States",
+	"regionName" : "California",
+	"cityName" : "Mountain View",
+	"zipCode" : "94043",
+	"latitude" : "37.406",
+	"longitude" : "-122.079",
+	"timeZone" : "-07:00"
+}";

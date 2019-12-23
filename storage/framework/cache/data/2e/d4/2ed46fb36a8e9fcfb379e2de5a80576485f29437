@@ -1,0 +1,13 @@
+1573372198s:294:"{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "54.153.8.114",
+	"countryCode" : "US",
+	"countryName" : "United States",
+	"regionName" : "California",
+	"cityName" : "San Francisco",
+	"zipCode" : "94102",
+	"latitude" : "37.7749",
+	"longitude" : "-122.419",
+	"timeZone" : "-07:00"
+}";
