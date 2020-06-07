@@ -1,4 +1,4 @@
-1570540045s:288:"{
+1583479179s:288:"{
 	"statusCode" : "OK",
 	"statusMessage" : "",
 	"ipAddress" : "51.75.95.101",
@@ -9,5 +9,5 @@
 	"zipCode" : "65556",
 	"latitude" : "50.3836",
 	"longitude" : "8.0503",
-	"timeZone" : "+02:00"
+	"timeZone" : "+01:00"
 }";

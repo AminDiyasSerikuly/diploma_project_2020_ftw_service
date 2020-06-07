@@ -1,13 +1,13 @@
-1562861758s:277:"{
+1587896914s:275:"{
 	"statusCode" : "OK",
 	"statusMessage" : "",
 	"ipAddress" : "185.177.0.226",
 	"countryCode" : "TJ",
 	"countryName" : "Tajikistan",
 	"regionName" : "Sughd",
-	"cityName" : "Proletarsk",
+	"cityName" : "Isfara",
 	"zipCode" : "-",
-	"latitude" : "40.167",
-	"longitude" : "69.504",
+	"latitude" : "40.1265",
+	"longitude" : "70.6253",
 	"timeZone" : "+05:00"
 }";

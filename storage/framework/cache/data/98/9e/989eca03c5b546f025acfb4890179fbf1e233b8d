@@ -1,13 +1,13 @@
-1576862020s:291:"{
+1587460457s:302:"{
 	"statusCode" : "OK",
 	"statusMessage" : "",
 	"ipAddress" : "209.17.97.26",
 	"countryCode" : "US",
-	"countryName" : "United States",
+	"countryName" : "United States of America",
 	"regionName" : "New York",
 	"cityName" : "New York City",
 	"zipCode" : "10116",
 	"latitude" : "40.7143",
 	"longitude" : "-74.006",
-	"timeZone" : "-05:00"
+	"timeZone" : "-04:00"
 }";

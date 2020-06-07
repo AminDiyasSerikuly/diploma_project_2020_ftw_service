@@ -1,13 +1,13 @@
-1564025964s:282:"{
+1586796906s:294:"{
 	"statusCode" : "OK",
 	"statusMessage" : "",
 	"ipAddress" : "85.9.140.5",
 	"countryCode" : "TJ",
 	"countryName" : "Tajikistan",
-	"regionName" : "Dushanbe",
-	"cityName" : "Dushanbe",
-	"zipCode" : "734018",
-	"latitude" : "38.5358",
-	"longitude" : "68.7791",
+	"regionName" : "Nohiyahoi Tobei Jumhuri",
+	"cityName" : "Kofarnihon",
+	"zipCode" : "-",
+	"latitude" : "38.5563",
+	"longitude" : "69.0135",
 	"timeZone" : "+05:00"
 }";

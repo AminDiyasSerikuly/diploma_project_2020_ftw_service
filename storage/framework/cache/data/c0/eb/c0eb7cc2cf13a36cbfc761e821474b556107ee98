@@ -1,4 +1,4 @@
-1571276195s:282:"{
+1586147378s:282:"{
 	"statusCode" : "OK",
 	"statusMessage" : "",
 	"ipAddress" : "82.80.249.243",
@@ -9,5 +9,5 @@
 	"zipCode" : "49460",
 	"latitude" : "32.0917",
 	"longitude" : "34.885",
-	"timeZone" : "+02:00"
+	"timeZone" : "+03:00"
 }";

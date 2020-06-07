@@ -1,0 +1,54 @@
+.select-dropdown {
+    max-height: 250px!important;
+}
+.--g-edit .col {
+    margin-bottom: 0;
+}
+.--g-edit .--header {
+	display: block;
+    background: #fafbfc;
+    padding: 0 24px;
+    height: 54px;
+    line-height: 54px;
+    border-bottom: 1px solid #e7e8ec;
+    border-radius: 4px 4px 0 0;
+    font-size: 16px;
+    outline: none;
+    color: #000;
+    margin: -24px -24px 24px;
+}
+
+.--g-edit .--g-title {
+    color: #656565;
+    margin-bottom: 1rem;
+}
+.--g-edit .section-grid {
+    display: inline-block;
+    margin-right: 2rem;
+}
+.--g-edit .section-grid:last-child {
+    margin-right: 0;
+}
+.--g-edit .--actbtn {
+    margin-top: 1.3rem;
+    position: relative;
+}
+.--g-edit .--actbtn .--preloader {
+    position: absolute;
+    z-index: 1;
+    width: 121px;
+    height: auto;
+    right: 12px;
+    top: 45px;
+}
+.--g-edit .--actbtn .--preloader .progress {
+    margin:0;
+}
+
+.checkpoint-gender::after,
+.checkpoint-gender::before{
+    border:1px solid #ff9800 !important;
+}
+.checkpoint-gender::after{
+    background-color: #ff9800 !important;
+}

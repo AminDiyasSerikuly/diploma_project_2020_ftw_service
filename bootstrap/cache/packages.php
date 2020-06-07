@@ -1,9 +1,9 @@
 <?php return array (
-  'beyondcode/laravel-dump-server' => 
+  'bepsvpt/secure-headers' => 
   array (
     'providers' => 
     array (
-      0 => 'BeyondCode\\DumpServer\\DumpServerServiceProvider',
+      0 => 'Bepsvpt\\SecureHeaders\\SecureHeadersServiceProvider',
     ),
   ),
   'csrui/laravel-firebase-auth' => 
@@ -51,13 +51,6 @@
     'aliases' => 
     array (
       'Socialite' => 'Laravel\\Socialite\\Facades\\Socialite',
-    ),
-  ),
-  'laravel/tinker' => 
-  array (
-    'providers' => 
-    array (
-      0 => 'Laravel\\Tinker\\TinkerServiceProvider',
     ),
   ),
   'nesbot/carbon' => 

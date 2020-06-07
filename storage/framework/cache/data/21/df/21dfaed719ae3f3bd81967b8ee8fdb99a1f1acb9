@@ -1,13 +1,13 @@
-1572595700s:281:"{
+1587405992s:275:"{
 	"statusCode" : "OK",
 	"statusMessage" : "",
 	"ipAddress" : "185.177.0.234",
 	"countryCode" : "TJ",
 	"countryName" : "Tajikistan",
 	"regionName" : "Sughd",
-	"cityName" : "Khujand",
-	"zipCode" : "735701",
-	"latitude" : "40.2853",
-	"longitude" : "69.6279",
+	"cityName" : "Isfara",
+	"zipCode" : "-",
+	"latitude" : "40.1265",
+	"longitude" : "70.6253",
 	"timeZone" : "+05:00"
 }";

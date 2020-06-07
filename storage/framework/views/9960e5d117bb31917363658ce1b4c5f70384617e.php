@@ -25,7 +25,7 @@
 								<div class="col m12 s12 nopadding">
 									<div class="card white boxsh">
 										<div class="card-content">
-											<a href="<?php echo e(route('taskview', $t->id)); ?>" class="card-title truncate"><?php echo e($t->task); ?></a>
+											<a href="<?php echo e(route('taskview', $t->id)); ?>" class="card-title truncate black-text"><?php echo e($t->task); ?></a>
 										</div>
 										<div class="card-action">
 											<div class="left">
@@ -37,11 +37,12 @@
 
 											<div class="right">
 												<span class="--time grey-text text-darken-1 veralmidd">
-													<strong><?php if($t->status==0): ?> <?php echo '<strong class="green-text">Актуально</strong>'; ?> <?php else: ?> <?php echo '<strong class="orange-text">Закрыто</strong>'; ?> <?php endif; ?></strong>: <?php echo e($t->start_date); ?>
+													<strong><?php if($t->status==0): ?> <?php echo '<strong class="orange-text">Актуально</strong>'; ?> <?php else: ?> <?php echo '<strong class="black-text">Закрыто</strong>'; ?> <?php endif; ?></strong>: <?php echo e($t->start_date); ?>
 
 												</span>
 												<?php if($t->bujet!=''): ?>
-												<span class="--sum yellow veralmidd"><?php echo e($t->bujet); ?> <?php echo e(App\Lang::getTrans('valuta', Config::get('app.locale'))); ?></span>
+												<span class="--sum veralmidd" style="padding: 10px;
+    color: #ff9800;"><?php echo e($t->bujet); ?> <?php echo e(App\Lang::getTrans('valuta', Config::get('app.locale'))); ?></span>
 												<?php endif; ?>
 											</div>
 										</div>

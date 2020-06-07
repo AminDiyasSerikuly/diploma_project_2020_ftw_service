@@ -1,0 +1,36 @@
+header{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    background-color: white;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+nav .nav-wrapper {
+	box-shadow: none !important;
+}
+
+nav .brand-logo{
+    /*Added 25.12*/
+    filter: invert(1);
+    transition: filter .5s;
+    /*end*/
+}
+
+.dropdown-content{
+	background-color: white;
+	overflow-x: hidden;
+	overflow-y: auto;
+}
+
+.dropdown-content li:hover,
+.dropdown-content li > a:hover, 
+.select-dropdown.dropdown-content li.selected, 
+.select-dropdown.dropdown-content li:hover{
+	background-color: #ff9800;
+}
+.dropdown-content li > a, .dropdown-content li > span {
+    color: black !important;
+	text-shadow: 0px 0px 0px transparent !important;
+	background-color: white !important;
+	transition: transform .2s !important;
+}

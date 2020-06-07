@@ -4,14 +4,20 @@
 <?php $__env->startSection('headlink'); ?>
 <link href="https://fonts.googleapis.com/css?family=Exo+2:500&display=swap&subset=cyrillic" rel="stylesheet">
 <link type="text/css" rel="stylesheet" href="<?php echo e(asset('css/creat.css?100')); ?>"/>
+<link type="text/css" rel="stylesheet" href="<?php echo e(asset('css/header-normalize.css')); ?>"  media="screen,projection"/>
 <script src="https://api-maps.yandex.ru/2.1/?lang=ru_RU&apikey=0e4ed3dd-4213-4ea2-98ce-23257fe20028" type="text/javascript"></script>
 <?php $__env->stopSection(); ?>
 <?php $__env->startSection('content'); ?>
-<div class="OrzuRibbon OrzuRibbonGradient"></div>
+	<script id="hider">
+		document.querySelector('body').style.display='none';
+		document.querySelector('body').style.opacity=0;
+		document.querySelector('body').style.transition="opacity .5s";
+	</script>
+
 <div class="container __dbjs OrzuRibbonContainer">
 	<div class="row">
 		<div class="col m12 s12 _c-header">
-			<h5 class="white-text mrg1b">Новый заказ</h5>
+			<h5 class="black-text mrg1b">Новый заказ</h5>
 			<?php if(Agent::isDesktop()): ?>
 			<div class="white-text fnt13 mrg1b hide">
 				Опишите задачу, сравните предложения и выберите исполнителя.
@@ -65,8 +71,19 @@
 							</div>
 						</div>
 						<div class="row">
-							<div class="col m12 s12">
-								<a href="" id="upload_link"><i class="material-icons veralmidd">attachment</i> Добавить изображения</a>​
+							<div class="col m12 s12 files-upload">
+								<span class="_LabelInput">Добавить фото</span>
+								<a href="" id="upload_link">
+									
+
+
+									<div class="plus-wrap">
+										<div class="ver"></div>
+										<div class="hor"></div>
+									</div>
+
+
+								</a>​
 								<input type="file" name="files[]" id="upload" accept="image/*" multiple/>
 							</div>
 						</div>
@@ -142,7 +159,9 @@
 							</div>
 							<div class="input-field col m12 s12 radio_group1" id="radio_group1">
 								<span class="_LabelInput">Город, район или точный адрес</span>
+
 								<input type="text" value="<?php echo e(old('address')); ?>" name="address" id="location" autocomplete="off" placeholder="Адрес">
+
 							</div>
 							<div class="input-field col m12 s12 nomargin--t radio_group1" id="radio_group2">
 								Встреча не нужна, исполнитель выполнит заказ там, где ему  удобнее. Для исполнителей из любых городов.
@@ -197,21 +216,26 @@
 							</div>
 						</div>
 						<?php if(auth()->guard()->guest()): ?>
-						<div class="row">
-							<div class="input-field col m6 s12">
-								<input name="name" placeholder="Напишите ваше имя" id="whtd" type="text" value="<?php echo e(old('name')); ?>" required>
-								<label for="whtd">Имя</label>
-							</div>
-							<div class="input-field col m6 s12">
-								<input id="phone" name="phone" value="<?php echo e(old('phone')); ?>" type="tel" required>
-							</div>
-						</div>
+
+								<script>
+									window.location='/login';
+								</script>
+
+
+
+
+
+
+
+
+
 						<?php endif; ?>
 						<div class="divider --theend"></div>
 						<div class="row nomargin--b">
 							<div class="col m12 s12 OrzuAdditionBlock">
-								<button class="btn yellow darken-1 OrzuPromoBtn OrzuPromoBtnShadow waves-effect waves-light" type="submit">Опубликовать задание</button>
-								<span class="OrzuBlockGridInlineSystems">Опубликовая, вы соглашаетесь <a href="#" class="link2">с условиями сервиса</a>.</span>
+								
+								<button class="home__btn-category" type="submit">Опубликовать задание</button>
+								<span class="OrzuBlockGridInlineSystems">Опубликовывая, вы соглашаетесь <a href="#" class="link2">с условиями сервиса</a>.</span>
 							</div>
 						</div>
 					</form>
@@ -254,8 +278,15 @@
 <?php $__env->startSection('footlink'); ?>
 <script type="text/javascript" src="<?php echo e(asset('js/phoneinpt.js?33')); ?>"></script>
 <script type="text/javascript" src="<?php echo e(asset('js/creat.js?55')); ?>"></script>
+<script id="lastRemove">
+	document.querySelector('#hider').remove();
+	document.querySelector('body').style.display='block';
+	document.querySelector('body').style.opacity=1;
+	document.querySelector('#lastRemove').remove();
+</script>
 <script>
 	//Tasks suggestion
+
 	var input = document.getElementById('whtd');
 	var awesomplete = new Awesomplete(input, {
 		minChars: 1
@@ -278,6 +309,44 @@
 		var suggestView1 = new ymaps.SuggestView('location');
 	}
 
+	window.onload=function(){
+	function attributes(el) {
+		$(el).attr('value',$(el).val());
+	}
+
+	$('#location').on('keyup',function(){
+		attributes('#location');
+	})
+
+	$('ymaps').on('click',function(){
+		attributes('#location');
+	})
+	}
+
+
+
+
+
+
+
+	let filesUpload = $('.files-upload');
+$('#upload').on('change',function(e){
+	$('.added-file').remove();
+  /* console.log($(this)[0].files) */
+  let currentChangedEl = $(this)[0];
+  let toAddFilesNames='';
+  for(let i=0;i<currentChangedEl.files.length;i++){
+		if(currentChangedEl.files[i].name != undefined){
+    	console.log(currentChangedEl.files[i].name + ' name' + toAddFilesNames.length)
+      if(toAddFilesNames.length<=0){
+      	toAddFilesNames += currentChangedEl.files[i].name;
+      } else {
+  			toAddFilesNames += ', ' + currentChangedEl.files[i].name;
+      }
+    }
+  }
+  filesUpload.after(`<span class="added-file"> ${ toAddFilesNames } </span>`);
+})
 </script>
 <?php $__env->stopSection(); ?>
 <?php echo $__env->make('base', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH /var/www/u0668441/data/www/orzu.org/resources/views/tasks/tasks.blade.php ENDPATH**/ ?>

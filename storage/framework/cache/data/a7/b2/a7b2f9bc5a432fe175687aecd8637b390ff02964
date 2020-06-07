@@ -1,13 +1,13 @@
-1567176046s:286:"{
+1583937470s:276:"{
 	"statusCode" : "OK",
 	"statusMessage" : "",
 	"ipAddress" : "37.99.32.126",
 	"countryCode" : "KZ",
 	"countryName" : "Kazakhstan",
-	"regionName" : "Almaty oblysy",
-	"cityName" : "Pervomayskiy",
-	"zipCode" : "-",
-	"latitude" : "43.3736",
-	"longitude" : "76.94",
+	"regionName" : "Almaty",
+	"cityName" : "Almaty",
+	"zipCode" : "050000",
+	"latitude" : "43.25",
+	"longitude" : "76.95",
 	"timeZone" : "+06:00"
 }";

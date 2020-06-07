@@ -1,0 +1,30 @@
+.about-section {
+	padding: 4rem 0;
+}
+.parallax-container {
+	z-index: 9;
+}
+.parallax img {
+	width: 100%;
+}
+.about-text {
+    font-size: 17px;
+    font-weight: 300;
+}
+.about-text-copyright {
+	font-size: .75rem;
+}
+.about-text-contacts span {
+	display: block;
+	font-weight: 300;
+	font-size: .8rem;
+	color: #222;
+}
+.about-text-contacts span a {
+	color: #222;
+	font-weight: normal;
+	font-size: 1rem;
+}
+.about-text-contacts span a:hover {
+	text-decoration: underline;
+}

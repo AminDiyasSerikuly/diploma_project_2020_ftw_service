@@ -1,0 +1,142 @@
+.--g-settings .col {
+    margin-bottom: 0;
+}
+.--g-settings .--header {
+    display: block;
+    position: relative;
+    background: #fafbfc;
+    padding: 0 24px;
+    height: 54px;
+    line-height: 54px;
+    border-bottom: 1px solid #e7e8ec;
+    border-radius: 4px 4px 0 0;
+    font-size: 16px;
+    outline: none;
+    color: #000;
+    margin: -24px -24px 24px;
+}
+.--g-settings .--header .--preloader {
+    position: absolute;
+    z-index: 1;
+    width: 50px;
+    height: auto;
+    right: 24px;
+    top: 18px;
+}
+.--g-settings .--header .--preloader .progress {
+    margin:0;
+}
+.--g-settings .--tabs {
+    margin: -24px -24px 24px;
+    border-bottom: 1px solid #e7e8ec;
+}
+.tabs .tab a {
+    color: #656565;    
+}
+.tabs .tab a:hover, .tabs .tab a.active {
+    /*color: #2096f3;*/
+    color: #ff9800;
+}
+.tabs .tab a:focus, .tabs .tab a:focus.active {
+    background-color: transparent;
+    outline: none;
+}
+.tabs .tab {
+    text-transform: none;
+}
+
+.tabs .indicator {
+    background-color: #e3f2fd;
+}
+.--g-settings .--g-title {
+    color: #656565;
+    margin-bottom: 1rem;
+}
+.--g-settings .--g-title.__g {
+    padding-left: .7rem;
+    padding-top: 1rem;
+}
+.--g-settings .--g-description {
+    padding-left: .7rem;
+    padding-top: .5rem;
+    font-size: 12px;
+    color: #939393;
+}
+.--g-settings .section-grid {
+    display: inline-block;
+    margin-right: 2rem;
+}
+.--g-settings .section-grid:last-child {
+    margin-right: 0;
+}
+.--g-settings .section-grid--b {
+    display: block;
+    margin-bottom: .3rem;
+}
+.--g-settings .section-grid--b:last-child {
+    margin-bottom: 0;
+}
+.--g-settings .--actbtn {
+    margin-top: 1.3rem;
+    position: relative;
+}
+
+.--g-settings .--tggl-pass {
+    position: absolute;
+    top: 12px;
+    right: 24px;
+    cursor: pointer;
+    opacity: .3;
+}
+.--g-settings .--tggl-pass.--show {
+    opacity: 1;
+}
+input[type=tel] {
+    width: calc(100% - 52px)!important;
+}
+[type="checkbox"]+span:not(.lever) {
+    height: 20px;
+    line-height: 20px;
+    font-size: 13px;
+    color: #000;
+}
+[type="checkbox"].filled-in:checked+span:not(.lever):after {
+/*    border: 2px solid #2096f3;
+    background-color: #2096f3;*/
+    border: 2px solid #ff9800;
+    background-color: #ff9800;
+}
+
+
+.collapsible {
+    box-shadow: none;
+    border: 0;
+}
+
+.collapsible .collapsible-header {
+    padding: 9px 20px;
+    background-color: #f8f7ee;
+    margin-bottom: 3px;
+    border-radius: 4px;
+}
+.collapsible .active .collapsible-header {
+    border-radius: 4px 4px 0 0;
+    border-bottom: 0;
+    margin-bottom: 0;
+}
+.collapsible .collapsible-body {
+    border: 0;
+    background-color: #f8f7ee;
+    margin-bottom: 3px;
+    border-radius: 0 0 4px 4px;
+    border-bottom: 1px solid #ddd;
+    padding: 10px 30px;
+}
+
+.collapsible .collapsible-body label {
+    display: block;
+    margin-bottom: .3rem;
+}
+.collapsible .collapsible-body label:last-child {
+    margin-bottom: 0;
+}

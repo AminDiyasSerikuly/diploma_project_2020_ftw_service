@@ -1,0 +1,1 @@
+$('.__msgbox').scrollTop($('.__msgbox')[0].scrollHeight);

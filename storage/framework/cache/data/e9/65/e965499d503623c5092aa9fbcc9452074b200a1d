@@ -1,13 +1,13 @@
-1562216530s:278:"{
+1587362746s:281:"{
 	"statusCode" : "OK",
 	"statusMessage" : "",
 	"ipAddress" : "109.68.234.35",
 	"countryCode" : "TJ",
 	"countryName" : "Tajikistan",
 	"regionName" : "Sughd",
-	"cityName" : "Panjakent",
-	"zipCode" : "-",
-	"latitude" : "39.4952",
-	"longitude" : "67.6093",
+	"cityName" : "Khujand",
+	"zipCode" : "735701",
+	"latitude" : "40.2853",
+	"longitude" : "69.6279",
 	"timeZone" : "+05:00"
 }";

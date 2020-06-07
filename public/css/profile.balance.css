@@ -1,0 +1,151 @@
+.select-dropdown {
+    max-height: 250px!important;
+}
+.--g-payments .col {
+    margin-bottom: 0;
+}
+.--g-payments .--header {
+	display: block;
+    background: #fafbfc;
+    padding: 0 24px;
+    height: 54px;
+    line-height: 54px;
+    border-bottom: 1px solid #e7e8ec;
+    border-radius: 4px 4px 0 0;
+    font-size: 16px;
+    outline: none;
+    color: #000;
+    margin: -24px -24px 24px;
+}
+
+.--g-payments .--g-title {
+    color: #656565;
+    margin-bottom: 1rem;
+}
+.--g-payments .section-grid {
+    display: inline-block;
+    margin-right: 2rem;
+}
+.--g-payments .section-grid:last-child {
+    margin-right: 0;
+}
+.--g-payments .--actbtn {
+    margin-top: 1.3rem;
+    position: relative;
+}
+.--g-payments .--actbtn .--preloader {
+    position: absolute;
+    z-index: 1;
+    width: 121px;
+    height: auto;
+    right: 12px;
+    top: 45px;
+}
+.--g-payments .--actbtn .--preloader .progress {
+    margin:0;
+}
+
+.--g-payments .--tabs {
+    margin: -24px -24px 24px;
+    border-bottom: 1px solid #e7e8ec;
+}
+.tabs .tab a {
+    color: #656565;    
+}
+.tabs .tab a:hover, .tabs .tab a.active {
+    color: #2096f3;
+}
+.tabs .tab a:focus, .tabs .tab a:focus.active {
+    background-color: transparent;
+    outline: none;
+}
+.tabs .tab {
+    text-transform: none;
+}
+
+.tabs .indicator {
+    background-color: #e3f2fd;
+}
+
+
+.collapsible {
+    box-shadow: none;
+    border: 0;
+}
+
+.collapsible .collapsible-header {
+    padding: 15px 20px;
+    color: #656565;
+    background-color: #fafbfc;
+    border-bottom: 1px solid #e7e8ec;
+    margin-bottom: 3px;
+    border-radius: 4px;
+    -webkit-transition: color .28s ease, background-color .28s ease;
+    transition: color .28s ease, background-color .28s ease;
+}
+.collapsible .collapsible-header:hover {
+    background-color: #f0f2f5;
+}
+.collapsible .collapsible-header span {
+    color: #9a9a9a;
+    margin-left: .5rem;
+    font-weight: 300;
+}
+.collapsible .collapsible-header i {
+    background-repeat: no-repeat;
+    width: 30px;
+    height: auto;
+    background-size: contain;
+}
+.collapsible .collapsible-header i.__sc {
+    background-size: 18px 18px;
+    background-position: center;
+}
+.collapsible .collapsible-header i.__card {
+    background-image: url(/svg/credit-card.svg);
+}
+.collapsible .collapsible-header i.__qiwi {
+    background-image: url(/svg/qiwi.svg);
+}
+.collapsible .collapsible-header i.__yandex {
+    background-image: url(/svg/yandexmoney.svg);
+}
+.collapsible .collapsible-header i.__webmoney {
+    background-image: url(/svg/webmoney.svg);
+}
+.collapsible .collapsible-header i.__applepay {
+    background-image: url(/svg/apple.svg);
+}
+.collapsible .collapsible-header i.__samsungpay {
+    background-image: url(/svg/samsungpay.svg);
+}
+.collapsible .collapsible-header i.__robokassa {
+    background-image: url(/svg/robokassa.svg);
+}
+.collapsible .collapsible-header i.__paypal {
+    background-image: url(/svg/paypal.svg);
+}
+
+
+.collapsible .active .collapsible-header {
+    border-radius: 4px 4px 0 0;
+    background-color: #ffe0b2;
+    border-bottom: 0;
+    margin-bottom: 0;
+}
+.collapsible .collapsible-body {
+    border: 0;
+    background-color: #fff3e0;
+    border-bottom: 1px solid #ffe0b2;
+    margin-bottom: 3px;
+    border-radius: 0 0 4px 4px;
+    padding: 10px 30px;
+}
+
+.collapsible .collapsible-body label {
+    display: block;
+    margin-bottom: .3rem;
+}
+.collapsible .collapsible-body label:last-child {
+    margin-bottom: 0;
+}

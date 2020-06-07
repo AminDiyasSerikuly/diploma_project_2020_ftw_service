@@ -69,13 +69,13 @@
 								<div class="section-grid">
 									<label>
 										<input name="gender" value="male" class="with-gap" type="radio" <?php if(App\Profile::getUserParam('user_sex')=='male'): ?> <?php echo e('checked'); ?> <?php endif; ?>/>
-										<span>Мужчина</span>
+										<span class="checkpoint-gender">Мужчина</span>
 									</label>
 								</div>
 								<div class="section-grid">
 									<label>
 										<input name="gender" value="female" class="with-gap" type="radio" <?php if(App\Profile::getUserParam('user_sex')=='female'): ?> <?php echo e('checked'); ?> <?php endif; ?> />
-										<span>Женщина</span>
+										<span class="checkpoint-gender">Женщина</span>
 									</label>
 								</div>
 							</div>
@@ -92,7 +92,7 @@
 							</div>
 							<!--/preloader-->
 							<div class="col s12">
-								<button class="right waves-effect waves-light blue btn-small">Сохранить</button>
+								<button class="right waves-effect waves-light orange btn-small">Сохранить</button>
 							</div>
 						</div>
 					</form>

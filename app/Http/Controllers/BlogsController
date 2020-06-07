@@ -1,0 +1,78 @@
+<?php
+
+namespace App\Http\Controllers;
+
+use Illuminate\Http\Request;
+use App\Http\Controllers\Controller;
+use App\Blogs;
+use App\OrzuPusher\PushNotification;
+use Carbon\Carbon;
+use Config;
+use App\CategoryKeys;
+use DB;
+use Hash;
+use Image;
+use App\Accounts;
+use File;
+use GeoLocation;
+use Auth;
+use App\Currently;
+
+
+class BlogsController extends Controller
+{
+    public function add(Request $request)
+    {
+        $date = Carbon::now('Asia/Almaty');
+        $data = array(
+            'blog'          => $request['name'],
+            'discription'     => $request['discription']      
+        );
+        Blogs::insert($data); 
+        $blog_id = DB::getPdo()->lastInsertId();
+    if($request->has('files')){
+        foreach($request->file('files') as $images){
+            $filename = $images->getClientOriginalName();
+            $image_resize = Image::make($images->getRealPath());
+            $image_resize->resize(400, null, function ($constraint) {
+                $constraint->aspectRatio();
+            });
+            $filename_1 = 'uploads/blog_images/'.$blog_id.'/'.$filename;
+            $data = array(
+                'image' => $filename_1,
+            );
+            Blogs::insert($data);
+            if(!File::exists(public_path('uploads/blog_images/'.$blog_id.'/'))){
+                File::makeDirectory(public_path('uploads/blog_images/'.$blog_id.'/'), $mode = 0777, true, true);
+                }
+            $image_resize->save(public_path('uploads/blog_images/'.$blog_id.'/'.$filename));
+            }
+        }
+
+    //Отправляет пуш всем юзерам, которые подписаны на категорию задачи
+   // PushNotification::SendCategories(Auth::user()->id, $cat_id, 'Подписка', 'Новая задача в категории: '.Tasks::getCatNameAttributeStatic($cat_id), $task_id);
+    return redirect('/blogs/view/'.$blog_id);
+    }
+
+	public function blogview($id)
+	{
+	    $blog = Blogs::where('id',$id)
+	    ->get();
+	    if($blog->count()<=0){
+		return redirect('/');
+	    }
+	    $data = array(
+		'blogs' => $blog
+	    );
+	    return view('blogs.blog')->with($data);
+	}
+public function index()
+{
+    $find = '';
+    if(request("find")!=''){
+        $find = "`name` like '%".request("find")."%'";
+    }   
+    return view('blogs.allblogs')->with($find);
+}
+}
+

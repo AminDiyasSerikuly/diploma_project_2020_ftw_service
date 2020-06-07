@@ -1,0 +1,280 @@
+body{
+	background-color:#eceff1!important;
+	height:100vh;
+}
+.user-login--forms-container{
+	background-color:#fff;
+	padding:0 1rem;
+	position:relative;
+}
+.signup__container{
+	position:absolute;
+	/*position:relative;*/
+	top:50%;
+	right:0;
+	left:0;
+	margin-right:auto;
+	margin-left:auto;
+	-webkit-transform:translateY(-50%);
+	transform:translateY(-50%);
+	display:-webkit-box;
+	display:-ms-flexbox;
+	display:flex;
+	-webkit-box-align:center;
+	-ms-flex-align:center;
+	align-items:center;
+	-webkit-box-pack:center;
+	-ms-flex-pack:center;
+	justify-content:center;
+	width:34rem;
+	height:34rem;
+	border-radius:.1875rem;
+	box-shadow:0 .1875rem .4375rem rgba(0,0,0,.25)
+}
+.OrzuAuthLogin.signup__container {
+	height:28rem!important;
+}
+.signup__overlay{
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+	background-color:#4caf50
+}
+.container__child{
+	width:100%;
+	/*height:100%*/
+}
+.signup__specialbg{
+	position:relative;
+	padding:2rem;
+	display:-webkit-box;
+	display:-ms-flexbox;
+	display:flex;
+	-ms-flex-wrap:wrap;
+	flex-wrap:wrap;
+	-webkit-box-align:center;
+	-ms-flex-align:center;
+	align-items:center;
+	background-color:#2196f3
+}
+.specialbg__logo{
+	position:relative;
+	z-index:2;
+	width:100%;
+	text-align:center
+}
+.specialbg__logo img{
+	width:110px
+}
+.specialbg__content{
+	width:100%;
+	position:relative;
+	z-index:2
+}
+.h--primary{
+	font-size:1.3rem;
+	font-family:'Roboto',serif;
+	font-weight:400;
+	text-transform:uppercase
+}
+.h--secondary{
+	font-size:1rem;
+	font-weight:300
+}
+.input-field label{
+	font-weight:300
+}
+input:not([type]),
+input[type=date],
+input[type=datetime-local],
+input[type=datetime],
+input[type=email],
+input[type=number],
+input[type=password],
+input[type=search],
+input[type=tel],
+input[type=text],
+input[type=time],
+input[type=url],
+textarea.materialize-textarea{
+	border-bottom:1px solid #efefef
+}
+.user-login--forms-container .--tggl-pass{
+	position:absolute;
+	top:12px;
+	right:24px;
+	cursor:pointer;
+	opacity:.3
+}
+.user-login--forms-container .--tggl-pass.--show{
+	opacity:1
+}
+.user-login--forms-container .logo-box--login{
+	position:relative;
+	padding:2rem 0
+}
+.user-login--forms-container .logo-box--login h5{
+	font-weight:600;
+	font-size:18px
+}
+.user-login--forms-container ._prefix{
+	position:absolute;
+	top:00;
+	height:46px;
+	line-height:46px;
+	color:#222;
+	font-size:16px;
+	padding-right:.7rem
+}
+.user-login--forms-container input#login{
+	padding-left:3.1rem;
+	width:calc(100% - 3.1rem)
+}
+.user-login--forms-container .link--back-home{
+	position:absolute;
+	top:2px;
+	left:12px;
+	text-align:center;
+	font-size:14px;
+	color:red;
+	display:none
+}
+.user-login--forms-container .link--back-home i{
+	vertical-align:middle;
+	font-size:14px
+}
+.user-login--forms-container .link--info-reg{
+	display:inline-block;
+	width:100%;
+	padding:0 .75rem 1rem
+}
+.link--info-reg button{
+	width:100%
+}
+.user-login--forms-container .link--info-reg span{
+	line-height:36px;
+	color:#777;
+	font-size:14px
+}
+.user-login--forms-container .link--info-reg span a:hover{
+	text-decoration:underline
+}
+.user-login--forms-container .account--ajax-loader{
+	position:absolute;
+	bottom:0;
+	left:0;
+	margin:0;
+	display:none
+}
+.user-login--oauth-container{
+	margin:1rem 0 0 0!important
+}
+.user-login--oauth-container a{
+	color:#fff;
+	font-weight:500;
+	text-transform:capitalize
+}
+.user-login--oauth-container a.btn-flat{
+	width:100%;
+	text-align:center
+}
+.user-login--oauth-container a.oauth--g{
+	background-color:#ea4335
+}
+.user-login--oauth-container a.oauth--vk{
+	background-color:#45668e
+}
+.user-login--oauth-container a.oauth--fb{
+	background-color:#3b5998
+}
+.user-login--oauth-container a.oauth--fb:hover,.user-login--oauth-container a.oauth--g:hover,.user-login--oauth-container a.oauth--vk:hover{
+	opacity:.8;
+	color:#fff
+}
+.AuthPageLogo{
+	position:absolute;
+	top:-80px
+}
+.AuthPageLogo img{
+	width:100px
+}
+hr.hr--form-container{
+	color:#efefef;
+	background-color:#efefef;
+	border:0 none;
+	height:1px;
+	clear:both
+}
+.line--form-container{
+	font-size:14px;
+	font-weight:300;
+	color:#9e9e9e;
+	text-align:center;
+	position:relative;
+	padding:0 1rem
+}
+.line--form-container span{
+	background-color:#fff;
+	position:relative;
+	z-index:1;
+	padding:0 20px
+}
+.line--form-container:after{
+	content:'';
+	display:block;
+	width:calc(100% - 2rem);
+	height:1px;
+	background-color:#efefef;
+	position:absolute;
+	top:50%;
+	margin-top:-1px;
+	z-index:0
+}
+
+.OrzuInputHelper {
+    position: relative;
+    font-size: 13px;
+    color: #444;
+    padding: 5px 10px 8px;
+    border: 1px solid #e6dfc6;
+    background-color: #FFF8DC;
+    box-shadow: 0 2px 8px rgba(59,64,69,0.1);
+}
+
+.OrzuInputHelperField .password-progress.progress {
+	margin: 0;
+	bottom: 0px;
+	right: 0px;
+	position: absolute;
+	height: 4px;
+	display: block;
+	width: 100%;
+	background-color: #e6dfc6;
+	border-radius: 0px;
+	overflow: hidden;
+}
+
+.OrzuInputHelperField .password-progress.progress.success .progress-meter {
+    background-color: #4caf50;
+}
+.OrzuInputHelperField .password-progress.progress.warning .progress-meter {
+    background-color: #ffae00;
+}
+
+.OrzuInputHelperField .password-progress.progress .progress-meter {
+    position: relative;
+    display: block;
+    width: 0;
+    height: 100%;
+}
+
+
+/*.OrzuCheckPhone,*/
+#verification,
+.OrzuCheckCode{
+	transition:opacity 1s;
+}
+
+

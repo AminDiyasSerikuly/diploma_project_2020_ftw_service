@@ -46,7 +46,7 @@
 									</div>
 
 									<div class="col s12 --actbtn">
-										<button type="submit" class="right waves-effect waves-light blue btn-small">Сохранить</button>
+										<button type="submit" class="right waves-effect waves-light orange btn-small">Сохранить</button>
 									</div>
 								</form>
 								<div class="divider"></div>
@@ -70,7 +70,7 @@
 									</div>
 
 									<div class="col s12 --actbtn">
-										<button class="right waves-effect waves-light blue btn-small">Сохранить</button>
+										<button class="right waves-effect waves-light orange btn-small">Сохранить</button>
 									</div>
 								</form>								
 							</div>
@@ -202,7 +202,7 @@
 									</div>
 
 									<div class="col s12 --actbtn">
-										<button type="submit" class="right waves-effect waves-light blue btn-small">Сохранить</button>
+										<button type="submit" class="right waves-effect waves-light orange btn-small">Сохранить</button>
 									</div>
 								</form>							
 							</div>

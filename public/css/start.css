@@ -1,0 +1,11 @@
+body {
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+	background-color: #fff !important;
+}
+.container.--general{
+	position: relative;
+	z-index: 1;
+	flex: 1 0 auto;
+}
